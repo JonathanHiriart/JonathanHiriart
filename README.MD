@@ -12,7 +12,6 @@
 </div>
 <div >
     <img src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanHiriart&theme=apprentice&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonihiriart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhiriart) 
