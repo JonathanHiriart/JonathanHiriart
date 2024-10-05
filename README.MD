@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
-<div justify-content:"center" displey="flex">
+<div justify-content:"center" displey="flex" align="center">
     <img width="300px" height="auto" src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true">
     <img width="300px" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
