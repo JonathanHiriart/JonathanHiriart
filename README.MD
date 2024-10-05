@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jonathan 👋</h1>
-<h3 align="center">Un apasionado desarrollador de software de Argentina</h3>
+<h3 align="center">💻<strong>Estudiante de Licenciatura en Informatica</strong></h3>
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -22,3 +22,5 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
+
+
