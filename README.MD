@@ -1,4 +1,5 @@
 <h1 align="center">Hola, soy Jonathan</h1>
+
 <div align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -9,10 +10,10 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
-<div>
-    ![](https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=JonathanHiriart&theme=apprentice&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanHiriart&theme=apprentice&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonihiriart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhiriart) 
 
