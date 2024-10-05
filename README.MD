@@ -12,26 +12,26 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonihiriart) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhiriart) 
+    <a href="https://instagram.com/yonihiriart"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" ></a>
+    <a href="https://linkedin.com/in/jonathanhiriart"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    ![](https://github-profile-trophy.vercel.app/?username=JonathanHiriart&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
+    <img src="https://github-profile-trophy.vercel.app/?username=JonathanHiriart&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4" >
 </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-    ![](https://github-contributor-stats.vercel.app/api?username=JonathanHiriart&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanHiriart&repo=github-readme-stats&theme=apprentice" alt="Top Contributed Repo">
 </div>
