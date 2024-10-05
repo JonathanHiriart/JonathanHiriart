@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Jonathan<br>Estudiante de Lic.Informatica<br>21 años <br>desarrollador Back-End
+Hola, soy Jonathan<br>Estudiante de Licenciatura en Informatica<br>21 años <br>desarrollador Back-End
 
 
 ## 🌐 Socials:
