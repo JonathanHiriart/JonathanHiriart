@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jonathan</h1>
+<h1 align="center">Hola, soy Jonathan 👋</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -10,21 +10,28 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
-<div justify-content:"center" displey="flex" align="center">
-    <img width="300px"  src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true">
-    <img width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonihiriart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhiriart) 
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHiriart&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+<div align="center">
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonihiriart) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanhiriart) 
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JonathanHiriart&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+    ![](https://github-profile-trophy.vercel.app/?username=JonathanHiriart&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JonathanHiriart&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=JonathanHiriart&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    ![](https://github-contributor-stats.vercel.app/api?username=JonathanHiriart&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
