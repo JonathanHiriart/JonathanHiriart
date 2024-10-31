@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="http://www.github.com/JonathanHiriart">
-    <img src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true" alt="JonathanHiriart's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JonathanHiriart&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true%22%20alt=%22JonathanHiriart%27s%20GitHub%20stats" />
   </a>
 </p>
 
